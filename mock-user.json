@@ -1,0 +1,11 @@
+{
+    "usename (min 3 char)*": "superpippo",
+    "name* (min 3 char)": "pippo",
+    "surname* (min 3 char)": "de pippis",
+    "email* (regex mail)": "superpippo@gmail.com",
+    "password* (conferma / min 8 char)": "forzaCatania1",
+    "yob": 2001,
+    "newsletterSub*": true,
+    "gender": "male",
+    "phone": "+3934567890"
+}

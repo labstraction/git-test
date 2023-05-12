@@ -1,0 +1,35 @@
+[
+    {
+        "usename (min 3 char)*": "superpippo",
+        "name* (min 3 char)": "pippo",
+        "surname* (min 3 char)": "de pippis",
+        "email* (regex mail)": "superpippo@gmail.com",
+        "password* (conferma / min 8 char)": "forzaCatania1",
+        "yob": 2001,
+        "newsletterSub*": true,
+        "gender": "male",
+        "phone": "+3934567890"
+    },
+    {
+        "usename (min 3 char)*": "plutino",
+        "name* (min 3 char)": "pluto",
+        "surname* (min 3 char)": "canis",
+        "email* (regex mail)": "plutino@gmail.com",
+        "password* (conferma / min 8 char)": "forzaAtalanta1",
+        "yob": 2001,
+        "newsletterSub*": true,
+        "gender": "male",
+        "phone": "+3934567899"
+    },
+    {
+        "usename (min 3 char)*": "paperinaKiss",
+        "name* (min 3 char)": "paperina",
+        "surname* (min 3 char)": "de paperis",
+        "email* (regex mail)": "paperina99@gmail.com",
+        "password* (conferma / min 8 char)": "forzaAscoli1",
+        "yob": 2001,
+        "newsletterSub*": true,
+        "gender": "female",
+        "phone": "+3934568890"
+    } 
+]
